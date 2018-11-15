@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ChartDesignerPage.aspx](./CS/AspChartDesigner/ChartDesignerPage.aspx) (VB: [ChartDesignerPage.aspx.vb](./VB/AspChartDesigner/ChartDesignerPage.aspx.vb))
+* **[ChartDesignerPage.aspx.cs](./CS/AspChartDesigner/ChartDesignerPage.aspx.cs) (VB: [ChartDesignerPage.aspx.vb](./VB/AspChartDesigner/ChartDesignerPage.aspx.vb))**
+* [MainPage.aspx](./CS/AspChartDesigner/MainPage.aspx) (VB: [MainPage.aspx](./VB/AspChartDesigner/MainPage.aspx))
+* [MainPage.aspx.cs](./CS/AspChartDesigner/MainPage.aspx.cs) (VB: [MainPage.aspx](./VB/AspChartDesigner/MainPage.aspx))
+<!-- default file list end -->
 # How to add the Client Chart Designer to an application
 
 
