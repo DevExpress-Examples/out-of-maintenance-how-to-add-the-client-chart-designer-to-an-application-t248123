@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ChartDesignerPage.aspx](./CS/ClientChartDesignerSample/ChartDesignerPage.aspx) (VB: [ChartDesignerPage.aspx](./VB/ClientChartDesignerSample/ChartDesignerPage.aspx))
+* **[ChartDesignerPage.aspx.cs](./CS/ClientChartDesignerSample/ChartDesignerPage.aspx.cs) (VB: [ChartDesignerPage.aspx](./VB/ClientChartDesignerSample/ChartDesignerPage.aspx))**
+* [MainPage.aspx](./CS/ClientChartDesignerSample/MainPage.aspx) (VB: [MainPage.aspx](./VB/ClientChartDesignerSample/MainPage.aspx))
+* [MainPage.aspx.cs](./CS/ClientChartDesignerSample/MainPage.aspx.cs) (VB: [MainPage.aspx](./VB/ClientChartDesignerSample/MainPage.aspx))
+* [SessionHelper.cs](./CS/ClientChartDesignerSample/SessionHelper.cs) (VB: [SessionHelper.vb](./VB/ClientChartDesignerSample/SessionHelper.vb))
+<!-- default file list end -->
 # How to add the Client Chart Designer to an application
 
 
